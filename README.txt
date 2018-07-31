@@ -1,3 +1,9 @@
+This is a Simple Billing module, you can set as services as you want and they will create the game server once a payment is done or, manually as administrator, setting the order as paid. You can configure the currency, the available invoice types, a payment email and a tax amount(%). For each service you can set max/min slots that can be purchased, price hour/month/year per slot, a title, an image and a service description.
+
+The biggest drawback is that the only payment gateways are PayPal, PayGol, Skrill and Robokassa.
+
+More infos:
+
 Hi guys!
 
 EXIM as smarthost is only needed for hosts with dynamically assigned IP because it avoids to be blocked by some mail servers like hotmail.
